@@ -12,3 +12,17 @@ C:\Users\crist\Desktop\C#projetoMusicalAlura\obj\Debug\net7.0\refint\C#projetoMu
 C:\Users\crist\Desktop\C#projetoMusicalAlura\obj\Debug\net7.0\C#projetoMusicalAlura.pdb
 C:\Users\crist\Desktop\C#projetoMusicalAlura\obj\Debug\net7.0\C#projetoMusicalAlura.genruntimeconfig.cache
 C:\Users\crist\Desktop\C#projetoMusicalAlura\obj\Debug\net7.0\ref\C#projetoMusicalAlura.dll
+c:\Users\crist\Documents\GitHub\estudo-csharp\bin\Debug\net7.0\C#projetoMusicalAlura.exe
+c:\Users\crist\Documents\GitHub\estudo-csharp\bin\Debug\net7.0\C#projetoMusicalAlura.deps.json
+c:\Users\crist\Documents\GitHub\estudo-csharp\bin\Debug\net7.0\C#projetoMusicalAlura.runtimeconfig.json
+c:\Users\crist\Documents\GitHub\estudo-csharp\bin\Debug\net7.0\C#projetoMusicalAlura.dll
+c:\Users\crist\Documents\GitHub\estudo-csharp\bin\Debug\net7.0\C#projetoMusicalAlura.pdb
+c:\Users\crist\Documents\GitHub\estudo-csharp\obj\Debug\net7.0\C#projetoMusicalAlura.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\crist\Documents\GitHub\estudo-csharp\obj\Debug\net7.0\C#projetoMusicalAlura.AssemblyInfoInputs.cache
+c:\Users\crist\Documents\GitHub\estudo-csharp\obj\Debug\net7.0\C#projetoMusicalAlura.AssemblyInfo.cs
+c:\Users\crist\Documents\GitHub\estudo-csharp\obj\Debug\net7.0\C#projetoMusicalAlura.csproj.CoreCompileInputs.cache
+c:\Users\crist\Documents\GitHub\estudo-csharp\obj\Debug\net7.0\C#projetoMusicalAlura.dll
+c:\Users\crist\Documents\GitHub\estudo-csharp\obj\Debug\net7.0\refint\C#projetoMusicalAlura.dll
+c:\Users\crist\Documents\GitHub\estudo-csharp\obj\Debug\net7.0\C#projetoMusicalAlura.pdb
+c:\Users\crist\Documents\GitHub\estudo-csharp\obj\Debug\net7.0\C#projetoMusicalAlura.genruntimeconfig.cache
+c:\Users\crist\Documents\GitHub\estudo-csharp\obj\Debug\net7.0\ref\C#projetoMusicalAlura.dll
