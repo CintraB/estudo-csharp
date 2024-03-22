@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crist\\Desktop\\C#projetoMusicalAlura\\C#projetoMusicalAlura.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\Documents\\GitHub\\estudo-csharp\\C#projetoMusicalAlura.csproj",
       "projectName": "C#projetoMusicalAlura",
-      "projectPath": "C:\\Users\\crist\\Desktop\\C#projetoMusicalAlura\\C#projetoMusicalAlura.csproj",
+      "projectPath": "C:\\Users\\crist\\Documents\\GitHub\\estudo-csharp\\C#projetoMusicalAlura.csproj",
       "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crist\\Desktop\\C#projetoMusicalAlura\\obj\\",
+      "outputPath": "C:\\Users\\crist\\Documents\\GitHub\\estudo-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
