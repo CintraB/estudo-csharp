@@ -1,4 +1,3 @@
-﻿// Screen Sound
 using System.Linq.Expressions;
 
 string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
@@ -164,5 +163,4 @@ void ExibirTituloDaOpcao(string titulo)
     Console.WriteLine(asteriscos + "\n");
 
 }
-//ExibirLogo();
 ExibirOpcoesDoMenu();
